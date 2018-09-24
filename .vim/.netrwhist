@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/cthomas/src/shadowlands'
+let g:netrw_dirhist_2='/Users/cthomas/src/shadowlands/shadowlands'
+let g:netrw_dirhist_3='/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula'
+let g:netrw_dirhist_4='/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core'
+let g:netrw_dirhist_5='/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula'
+let g:netrw_dirhist_6='/Users/cthomas/src/shadowlands-core/shadowlands'
+let g:netrw_dirhist_7='/Users/cthomas/src/homebrew-shadowlands/Formula'
